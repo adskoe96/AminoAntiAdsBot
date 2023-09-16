@@ -19,7 +19,7 @@ except aminofix.exceptions.VerificationRequired:
     print('Verification: ' + client.login(email=email, password=password)['url'])
     webbrowser.open(client.login(email=email, password=password)['url'])
 
-print("Login: Done: " + client.profile.nickname)
+print("Login Done: " + client.profile.nickname)
 subclient = aminofix.SubClient(comId="Your Community Id", profile=client.profile)
 print("SubClient: Done")
 
