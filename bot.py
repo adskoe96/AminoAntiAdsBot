@@ -24,8 +24,7 @@ subclient = aminofix.SubClient(comId="Your Community Id", profile=client.profile
 print("SubClient: Done")
 
 def SendMSG(cid: str, msg: str):
-    if not sleepmode:
-        subclient.send_message(chatId=cid, message=msg)
+    subclient.send_message(chatId=cid, message=msg)
 
 def extract_link(message: str):
     result = re.search(aminolinkpattern, message)
