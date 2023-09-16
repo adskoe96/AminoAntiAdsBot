@@ -20,7 +20,7 @@ except aminofix.exceptions.VerificationRequired:
     webbrowser.open(client.login(email=email, password=password)['url'])
 
 print("Логин завершен: " + client.profile.nickname)
-subclient = aminofix.SubClient(comId="Your Community Id", profile=client.profile)
+subclient = aminofix.SubClient(comId="Айди вашего сообщества", profile=client.profile)
 print("Клиент сообщества готов")
 
 def SendMSG(cid: str, msg: str):
