@@ -17,4 +17,8 @@
 ### And if you want to support me by donating, here's the link: https://www.donationalerts.com/r/adskoe95  
   
 ## Visitors  
-![counter](https://count.getloli.com/@ysmmodelrepo?name=AminoAntiAdsBot&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@AminoAntiAdsBot.github?name=Moe-counter.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
