@@ -14,4 +14,6 @@
 ## Attention: The use of my open source code under the MIT license is allowed only when the author of the code, i.e. me, is indicated. You can use this code for your bot, but in this case you specify me as the author of methods of advertising detection, in other cases everything is on your conscience, but be human, respect other people's work, whatever it may be.
 
 ### If you want to complement the bot - contact me in: [ Discord : adskdev ] or [ Telegram : https://t.me/adskdev ]
-### And if you want to support me by donating, here's the link: https://www.donationalerts.com/r/adskoe95
+### And if you want to support me by donating, here's the link: https://www.donationalerts.com/r/adskoe95  
+  
+![counter](https://count.getloli.com/@ysmmodelrepo?name=AminoAntiAdsBot&theme=gelbooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
